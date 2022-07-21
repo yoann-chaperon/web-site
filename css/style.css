@@ -113,7 +113,7 @@ h6,
 .navbar .navbar-nav .nav-link.active {
     color: var(--primary);
 }
-
+/**** ENLEVER ***/
 .navbar.sticky-top {
     top: -100px;
     transition: .5s;
